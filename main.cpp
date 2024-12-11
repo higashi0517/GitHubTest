@@ -3,6 +3,6 @@
 int main() {
 
 	printf("Hello, World!\n");
-	printf("GLHF\n");
+	printf("PullRequest branch changed\n");
 	return 0;
 }
